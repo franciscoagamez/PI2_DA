@@ -13,7 +13,7 @@ Este proyecto se centra en el análisis de siniestros viales ocurridos en la Ciu
 - [`Dashboard/`](Dashboard): Contiene el informe completo del análisis y visualizaciones generadas.
 - [`Consultas MySql/`](Dashboard): Contiene el informe completo del análisis y visualizaciones generadas.
 - [`functions.py/`](functions.py): Scripts de Python utilizados para procesar y analizar los datos.
-- [`README.md`](PI2_DA/README.md): Este archivo, que proporciona una visión general del proyecto y detalles del análisis realizado.
+- [`README.md`](README.md): Este archivo, que proporciona una visión general del proyecto y detalles del análisis realizado.
 
 ## Reporte de Análisis
 
