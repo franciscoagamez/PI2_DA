@@ -1,5 +1,5 @@
 
-![Image alt text](Assets\CABA-Presentacion.jpg)
+![Image alt text](Assets/CABA-Presentacion.jpg)
 # Proyecto de Análisis de Siniestros Viales en CABA
 
 ## Descripción General del Proyecto
@@ -8,11 +8,11 @@ Este proyecto se centra en el análisis de siniestros viales ocurridos en la Ciu
 
 ## Contenido del Repositorio
 
-- [`datasets/`](PI2_DA\DataSets): Contiene el archivo CSV `siniestros_viales.csv` con los datos de los siniestros viales.
-- [`notebooks/`](PI2_DA\Notebooks): Incluye los Jupyter Notebooks utilizados para realizar el análisis de datos, incluyendo el ETL y EDA, ademas de algunas funciones usadas durante el proceso de ETL.
-- [`Dashboard/`](PI2_DA\Dashboard): Contiene el informe completo del análisis y visualizaciones generadas.
-- [`functions.py/`](PI2_DA\functions.py): Scripts de Python utilizados para procesar y analizar los datos.
-- [`README.md`](PI2_DA\README.md): Este archivo, que proporciona una visión general del proyecto y detalles del análisis realizado.
+- [`datasets/`](PI2_DA/DataSets): Contiene el archivo CSV `siniestros_viales.csv` con los datos de los siniestros viales.
+- [`notebooks/`](PI2_DA/Notebooks): Incluye los Jupyter Notebooks utilizados para realizar el análisis de datos, incluyendo el ETL y EDA, ademas de algunas funciones usadas durante el proceso de ETL.
+- [`Dashboard/`](PI2_DA/Dashboard): Contiene el informe completo del análisis y visualizaciones generadas.
+- [`functions.py/`](PI2_DA/functions.py): Scripts de Python utilizados para procesar y analizar los datos.
+- [`README.md`](PI2_DA/README.md): Este archivo, que proporciona una visión general del proyecto y detalles del análisis realizado.
 
 ## Reporte de Análisis
 
