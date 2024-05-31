@@ -56,7 +56,26 @@ Este análisis y los KPIs propuestos servirán como base para la toma de decisio
 
 Los KPIs propuestos permitirán evaluar el impacto de las políticas de seguridad vial en tiempo real y ajustar las estrategias según sea necesario para alcanzar los objetivos establecidos. Estos indicadores proporcionan una métrica clara y cuantificable para medir el éxito de las iniciativas de reducción de siniestros viales y mejorar la seguridad de todos los usuarios de la vía.
 
+## Recomendaciones Finales
+
+Las siguientes son recomendaciones finales son suceptibles de convertirse en una política pública, que dote de herramientas al Observatorio de Movilidad y Seguridad Vial de la Ciudad Autónama de Buenos Aires. Son las siguientes:
+
+1. Enfocar la prevención en conductores masculinos jóvenes.
+2. Reforzar controles y campañas en avenidas y cruces.
+3. Aumentar la conciencia vial de motociclistas y peatones.
+4. Intensificar controles nocturnos en avenidas.
+5. Monitorear de cerca las comunas con mayor índice de accidentes. 
+6. Continuar reforzando el enfoque preventivo.
+
+
+## Tecnologías utilizadas
+
+1) Python
+2) SQL
+3) Microsoft PowerBI
+4) Librerías Python: Pandas, Seaborn, MatplotLib, Folium, PyMySQL, SciKit Learn One Hot Encoder,numpy,sqlalchemy. 
+
 ## Contacto
 
-Para cualquier consulta o más información, por favor contactar a mi [LINKEDIN](https://www.linkedin.com/in/francisco-ag%C3%A1mez-bb132857/).
+Para cualquier consulta, sugerencia o más información, por favor contactarme a mi [LINKEDIN](https://www.linkedin.com/in/francisco-ag%C3%A1mez-bb132857/).
 
